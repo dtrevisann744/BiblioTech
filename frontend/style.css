@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #e6e3e3;
+}
+
+main {
+    margin: 130px; 
+}
+
+.conteudo-login {
+    width: 550px;
+    height: 550px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    text-align: center;
+    border-radius: 12px;
+}
+
+.titulo {
+    padding-top: 80px;
+}
+
+.titulo h1 {
+    font-size: 42px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15px;
+    font-size: 25px;
+}
+
+.digite-login {
+    margin-top: 70px;
+}
+
+.digite-login p {
+    width: 230px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.digite-senha p {
+    width: 230px;
+    font-size: 17px;
+    padding-top: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+input {
+    padding: 15px 10px;
+    width: 70%;
+    border-radius: 8px;
+    border: 1px solid #c9c9c9;
+    margin-top: 5px;
+    font-size: 16px;
+}
+
+.entrar {
+    margin-top: 15px;
+}
+
+.entrar p {
+    border: 1px solid #2762d1;
+    background-color: #2a5cb9;
+    color: white;
+    padding: 14px 10px;
+    width: 70%;
+    margin: auto;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 8px;
+}
+
+.clique-aqui {
+    margin-top: 18px;
+}
+
+.clique-aqui p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/*Tela de Cadastro*/
+
+.conteudo-cadastro {
+    width: 550px;
+    height: 800px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    text-align: center;
+    border-radius: 12px;
+}
+
+.main-cadastro {
+    margin: 100px;
+}
+
+.checkbox input {
+    font-size: 16px;
+}
+
+.termos {
+    width: 510px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.termos p {
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.termos strong {
+    color: #1559d8;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.termos strong:hover {
+    text-decoration: underline;
+}
